@@ -2983,6 +2983,36 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		MADETOMMY-Bold18
+		{
+			"1"
+			{
+				"name"		"MADETOMMY-Bold"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		
+		MADETOMMY-Bold20
+		{
+			"1"
+			{
+				"name"		"MADETOMMY-Bold"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+		
+		MADETOMMY-Bold22
+		{
+			"1"
+			{
+				"name"		"MADETOMMY-Bold"
+				"tall"		"22"
+				"antialias" "1"
+			}
+		}
 
 		"MMenuPlayListDesc"
 		{
